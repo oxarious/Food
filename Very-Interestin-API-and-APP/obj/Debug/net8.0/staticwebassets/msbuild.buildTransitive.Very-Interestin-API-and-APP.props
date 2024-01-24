@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Very-Interestin-API-and-APP.props" />
+</Project>

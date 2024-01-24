@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2LtUIgoJVZP/5FHxWzO3zpJgkocZwzrf4Vskcf20dkvpDm6Kz8bJ36PQ4/4ux58aFcPe6Kp/OLNsWLj5JqF0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rock N Råttan\\source\\repos\\Very-Interestin-API-and-APP\\Very-Interestin-API-and-APP\\Very-Interestin-API-and-APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rock N Råttan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Rock N Råttan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rock N Råttan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rock N Råttan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rock N Råttan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rock N Råttan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
