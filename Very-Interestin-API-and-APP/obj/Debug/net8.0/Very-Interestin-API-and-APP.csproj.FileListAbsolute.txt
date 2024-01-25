@@ -30,3 +30,4 @@ C:\Users\Rock N Råttan\source\repos\Very-Interestin-API-and-APP\Very-Interestin
 C:\Users\Rock N Råttan\source\repos\Very-Interestin-API-and-APP\Very-Interestin-API-and-APP\obj\Debug\net8.0\Very-Interestin-API-and-APP.pdb
 C:\Users\Rock N Råttan\source\repos\Very-Interestin-API-and-APP\Very-Interestin-API-and-APP\obj\Debug\net8.0\Very-Interestin-API-and-APP.genruntimeconfig.cache
 C:\Users\Rock N Råttan\source\repos\Very-Interestin-API-and-APP\Very-Interestin-API-and-APP\obj\Debug\net8.0\ref\Very-Interestin-API-and-APP.dll
+C:\Users\Rock N Råttan\source\repos\Very-Interestin-API-and-APP\Very-Interestin-API-and-APP\obj\Debug\net8.0\Very-Interestin-API-and-APP.sourcelink.json

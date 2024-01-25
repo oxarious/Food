@@ -63,12 +63,37 @@ namespace Very_Interestin_API_and_APP.Controllers
             if (item == null)
             {
                 // Item not found
-                return NotFound();
+                return NotFound("Food is not found");
             }
             return Ok("Food is deleted");
 
 
 
         }
+        [HttpPut("{id}")]
+
+        public ActionResult Update(int id, [FromBody] Food updatedFood)
+        {
+            // Find the item in the list or database
+            var item = Food.FirstOrDefault(i => i.Id == id);
+            if (item == null)
+            {
+                // Item not found
+                return NotFound("Food is not found");
+            }
+
+            // Update the item properties
+            item.Id = updatedFood.Id;
+            item.Dish = updatedFood.Dish;
+            item.MainIngredient = updatedFood.MainIngredient;
+            item.PreparationTime = updatedFood.PreparationTime;
+            // ... update other properties as needed
+
+            // Save changes to the list or database
+            // ...
+
+            return Ok("Food is updated");
+        }
+
     }
 };
